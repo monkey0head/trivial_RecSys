@@ -4,7 +4,9 @@ Everything that has long been known about Recommender Systems.
 
 
 ## RecSys repos
-  * [A curated list of awesome Recommender System (Books, Conferences, Researchers, Papers, Github Repositories, Useful Sites, Youtube Videos)](https://github.com/jihoo-kim/awesome-RecSys) designed by Jihoo Kim
+  * [A Curated List of Must-read Papers on Recommender System](https://github.com/hongleizhang/RSPapers) by hongleizhang
+  * [A curated list of awesome Recommender System (Books, Conferences, Researchers, Papers, Github Repositories, Useful Sites, Youtube Videos)](https://github.com/jihoo-kim/awesome-RecSys) by Jihoo Kim
+  * [competitive-recsys: A collection of resources for Recommender Systems (RecSys)](https://github.com/chihming/competitive-recsys)
   * [List of Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems): SaaS, Open Source, Academic, Benchmarking Recommender systems
   * [Must-read papers on recommendation systems](https://github.com/scnu-dil/awesome-RecSys)
 
@@ -28,7 +30,23 @@ Exists:
 ### International
 ### RU
 
-## Two-level models
 
+## Courses
+### For recsys-kittens
+ * [Google Recommendation Systems course](https://developers.google.com/machine-learning/recommendation)
+ * [Recommender Systems Specialization offered on Coursera by the University of Minnesota](https://www.coursera.org/specializations/recommender-systems)
+
+ * RU: Lectures [first](https://youtu.be/jXq7z6z1RNM), [second](https://youtu.be/HOcP_1kLOOs)  on recommender systems given at the Faculty of Computer Science, High School of Economics
+ * RU: [MTC. Your first recsys](https://ods.ai/tracks/mts-recsys-df2020), [notebooks](https://www.kaggle.com/sharthz23/mts-library/notebooks)
+
+
+### For seasoned recsys-cats 
+ * Nvidia articles on building a Winning Deep Learning Powered Recommender System: 
+ part [1](https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-1/), 
+ [2](https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-2-deep-learning-for-recommender-systems/),
+ [3](https://developer.nvidia.com/blog/how-to-build-a-winning-deep-learning-powered-recommender-system-part-3/) 
+ 
+## Two-level models 
+ 
 ### Papers
 ### Examples/Tutorials/Competitons' solutions
